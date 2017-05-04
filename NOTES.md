@@ -47,3 +47,8 @@ Part 2 Tasks:
 6. Apply CSS to table, graph, and form
 
 Part 3:
+
+
+
+Other stuff:
+There is a weird data anomaly where in one speech there are 2 speakers Macbeth and Lennox, but machbeth has no lines, so the speaker is MacbethLenox and the line count is 1
