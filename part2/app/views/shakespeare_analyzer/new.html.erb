@@ -1,0 +1,7 @@
+
+  <h1>Welcome to Shakespeare Analyzer</h1>
+  <p>Enter an XML link in the search box below to see the number of lines per character</p>
+  <%= form_tag("/shakespeare_analyzer", method: "post") do %>
+    <%= text_field_tag(:uri)  %>
+    <%= submit_tag("Analyze")  %>
+  <% end %>

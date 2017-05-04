@@ -3,9 +3,9 @@ require 'open-uri'
 require 'byebug'
 
 
-class AnalyzeMacbeth
+class AnalyzeShakespeare
   attr_accessor :speeches, :uri, :lines_per_speaker
-  
+
   def initialize(uri)
     @uri = uri
   end
