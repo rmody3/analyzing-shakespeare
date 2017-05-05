@@ -2,7 +2,6 @@ require 'nokogiri'
 require 'open-uri'
 require 'byebug'
 
-
 class AnalyzeShakespeare
   attr_accessor :speeches, :uri, :lines_per_speaker
 
