@@ -6,7 +6,7 @@ Who talked the most in Macbeth?
 Part 1
 Count the number lines each character spoke in a given play
 Sample usage/output (using made-up numbers):
-$ ruby macbeth_analyzer.rb
+$ ruby macbeth_cli_analyzer.rb
  543 Macbeth
  345 Banquo
  220 Duncan

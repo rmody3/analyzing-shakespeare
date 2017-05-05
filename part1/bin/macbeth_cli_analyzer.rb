@@ -1,4 +1,4 @@
-require_relative "../lib/macbeth"
+require_relative "../lib/analyze_shakespeare"
 MACBETH_URI = "http://www.ibiblio.org/xml/examples/shakespeare/macbeth.xml"
 
 

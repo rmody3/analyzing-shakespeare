@@ -10,8 +10,6 @@ class ShakespeareAnalyzerController < ApplicationController
     @lines_per_speaker = ShakespeareAnalyzer.get_lines_per_speaker
   end
 
-
-
   private
   def strong_params
     params.permit(:uri)
